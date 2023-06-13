@@ -1,0 +1,6 @@
+============Use This for starting the restAPI====================
+
+npm install express mongoose dotenv body-parser cors nodemon --save
+
+GtiK9IonxYxOjX3I
+DB_CONNECTION = mongodb+srv://ambrose:GtiK9IonxYxOjX3I@tulisaja.vnphz5g.mongodb.net/dbtulisaja?retryWrites=true&w=majority
